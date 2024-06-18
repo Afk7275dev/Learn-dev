@@ -1,1 +1,35 @@
-<!DOCTYPE
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil - Apprentissage Développement</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur notre site d'apprentissage du développement</h1>
+        <nav>
+            <ul>
+                <li><a href="../../index.html">Accueil</a></li>
+                <li><a href="../menu.html">Cours</a></li>
+                <li><a href="../about.html">À propos</a></li>
+                <li><a href="../update.html">Mise à jour</a></li>
+                <li><a href="../editor/editor.html">Editeur</a></li>
+                <li><a href="../login.html">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Commencez votre aventure de codage avec nous !</h2>
+        <p>Apprenez HTML, CSS et JavaScript de manière interactive et amusante.</p>
+        <button class="courses"><a href="pages/menu.html" class="courses-link"> Commencer les cours</a></button>
+        <br>
+        <p> Ayez la possibilité de developper, en connaisant ou non la porgrammation de site web</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Apprentissage Développement. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
+
